@@ -1,6 +1,6 @@
 To use Download the following
 
-npm install discord.js
+Click on Setup
 
 this is a basic Presence for a discord bot
 
